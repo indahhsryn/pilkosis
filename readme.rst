@@ -1,3 +1,7 @@
+Kamp Kreatif SMK Indonesia tahun 2021
+Work as a team to create a web-based student council leader election aplication, here i act as a back end developer
+
+
 ###################
 What is CodeIgniter
 ###################
